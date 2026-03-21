@@ -1,9 +1,9 @@
-
----
-
-## 10_api_request.md
-```md
 # APIリクエスト
+
+APIを使うことで、外部サービスからデータを取得できます。  
+ここでは `requests` ライブラリを使ってデータを取得します。
+
+## サンプルコード
 
 ```python
 import requests

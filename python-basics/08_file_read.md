@@ -1,15 +1,11 @@
-
----
-
-## 08_file_read.md
-```md
 # ファイル読み込み
 
+Pythonでは、テキストファイルなどを読み込んで内容を扱うことができます。  
+ログ処理やデータ分析などでよく使われます。
+
+## サンプルコード
+
 ```python
-file = open("sample.txt")
-
-text = file.read()
-
-print(text)
-
-file.close()
+with open("sample.txt", "r", encoding="utf-8") as f:
+    content = f.read()
+    print(content)
