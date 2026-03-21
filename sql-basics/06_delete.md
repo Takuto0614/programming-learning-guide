@@ -1,11 +1,8 @@
-
----
-
-## 06_delete.md
-```md
 # DELETE
 
 データを削除する
+
+## サンプルSQL
 
 ```sql
 DELETE FROM users

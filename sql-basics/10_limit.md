@@ -1,11 +1,8 @@
-
----
-
-## 10_limit.md
-```md
 # LIMIT
 
 取得件数を制限する
+
+## サンプルSQL
 
 ```sql
 SELECT *

@@ -1,11 +1,8 @@
-
----
-
-## 05_update.md
-```md
 # UPDATE
 
 データを更新する
+
+## サンプルSQL
 
 ```sql
 UPDATE users

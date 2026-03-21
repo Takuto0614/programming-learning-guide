@@ -1,13 +1,8 @@
-
----
-
-# SQL教材（追加7本）
-
-## 04_insert.md
-```md
 # INSERT
 
 データを追加する
+
+## サンプルSQL
 
 ```sql
 INSERT INTO users(name, age)

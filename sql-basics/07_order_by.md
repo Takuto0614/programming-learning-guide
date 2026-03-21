@@ -1,11 +1,8 @@
-
----
-
-## 07_order_by.md
-```md
 # ORDER BY
 
 データを並び替える
+
+## サンプルSQL
 
 ```sql
 SELECT *

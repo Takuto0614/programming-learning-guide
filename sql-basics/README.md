@@ -6,6 +6,13 @@ SQLの基本を学ぶための教材です。
 - SELECT
 - WHERE
 - JOIN
+- INSERT
+- UPDATE
+- DELETE
+- ORDER
+- GROUP_BY
+- SUB_QUERY
+- LIMIT
 
 ## サンプルコード
 `sample/` 配下にSQL例を配置しています。

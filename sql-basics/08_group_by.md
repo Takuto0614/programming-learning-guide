@@ -1,11 +1,8 @@
-
----
-
-## 08_group_by.md
-```md
 # GROUP BY
 
 データをグループ化
+
+## サンプルSQL
 
 ```sql
 SELECT age, COUNT(*)
