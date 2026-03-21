@@ -1,11 +1,8 @@
-
----
-
-## 10_list.md
-```md
 # List
 
 Listは可変長の配列です。
+
+## サンプルコード
 
 ```java
 import java.util.*;
